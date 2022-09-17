@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://youfenglab.github.io',
                 'git_url': 'https://github.com/youfenglab/nlp-with-huggingface',
                 'lib_path': 'nlp_with_huggingface'},
-  'syms': {'nlp_with_huggingface.core': {'nlp_with_huggingface.core.foo': ('core.html#foo', 'nlp_with_huggingface/core.py')}}}
+  'syms': {'nlp_with_huggingface.core': {'nlp_with_huggingface.core.foo': ('hf_datasets.html#foo', 'nlp_with_huggingface/core.py')}}}
