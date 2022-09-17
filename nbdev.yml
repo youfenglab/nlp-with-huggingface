@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nlp-with-huggingface"
+  site-url: "https://youfenglab.github.io/nlp-with-huggingface"
+  description: "This is my notebook of learning natural language processing with Hugging Face"
+  repo-branch: master
+  repo-url: "https://github.com/youfenglab/nlp-with-huggingface"
